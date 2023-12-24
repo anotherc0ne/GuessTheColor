@@ -1,0 +1,48 @@
+body {
+    font-family: "Space Mono", bold, monospace;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#buttonWrapper {
+    text-align: center;
+}
+
+.colorButton {
+    width: 200px;
+    height: 200px
+}
+
+#header {
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+}
+
+#result {
+    text-align: center;
+}
+
+#reset {
+    text-align:centre;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 10px 20px;
+    font-family: "Space Mono", bold, monospace;
+}
+
+#colorValue {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 10px 20px;
+    font-family: "Space Mono", bold, monospace;
+}
+
+p {
+    font-size: 20px;
+    width: 100%
+}
